@@ -1,0 +1,22 @@
+index.html
+  s_d0644e96a010c0::t_c464c598380337 6,10
+src/main.ts
+  s_d0644e96a010c0::t_c464c598380337 6-8,11,24-25
+  s_d0644e96a010c0::t_19b47c5b8c65dd 12,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1bb387cff27a2353f63b343c2ecc3d055a42badc",
+  "prompts": {},
+  "sessions": {
+    "s_d0644e96a010c0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a529-88fa-7ce3-b3d1-0fccce839338",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Celtian <dominik.hladik@seznam.cz>"
+    }
+  }
+}
